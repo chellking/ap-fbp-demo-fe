@@ -13,7 +13,7 @@
     "buildf": "npm run buildConfigFbp && npm run build"
   },
   "dependencies": {
-    "axios": "0.16.1",
+    "axios": "0.21.1",
     "ifbp-element": "^1.1.46",
     "lodash": "4.17.4",
     "lodash.debounce": "4.0.8",
